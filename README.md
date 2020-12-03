@@ -4,4 +4,4 @@ A bare bones Docker image for running an instance of Firefox from a remote serve
 Nothing is working in any way, shape, or form yet.
 
 ## TODO
-- [_] Selenium integration
+- [] Selenium integration
